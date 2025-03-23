@@ -1,0 +1,24 @@
+{
+  "name": "01-desafio-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcuculi/01-desafio-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcuculi/01-desafio-nodejs/issues"
+  },
+  "homepage": "https://github.com/gcuculi/01-desafio-nodejs#readme",
+  "dependencies": {
+    "csv-parse": "^5.6.0"
+  }
+}
